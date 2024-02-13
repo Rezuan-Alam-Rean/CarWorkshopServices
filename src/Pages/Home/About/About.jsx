@@ -6,8 +6,8 @@ import img2 from "../../../assets/assets/images/about_us/parts.jpg"
 const About = () => {
     return (
 
-        <div>
-            <h2 className="text-orange-600 text-5xl mt-10 text-center font-bold self-stretch max-md:max-w-full">About Us</h2>
+        <div className="md:mb-36 lg:mb-2">
+            <h2 className="text-orange-600  text-4xl mt-10 text-center font-bold self-stretch max-md:max-w-full">About Us</h2>
         <div className="hero min-h-screen bg-white">
             <div className="hero-content flex-col lg:flex-row">
 
