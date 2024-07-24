@@ -13,7 +13,7 @@ const Banner = () => {
 
           <div className="space-y-8 ml-8 ">
             <h2 className="font-bold  text-4xl md:text-6xl">Affordable Price For Car Servicing</h2>
-            <p>There are many variations of passages of  available, but the majority have suffered alteration in some form</p>
+            <p>There are many variations of , but the majority have suffered alteration in some form</p>
             <div>
               <button className="btn mr-5 btn-outline btn-error">Discover More</button>
               <button className="btn btn-outline btn-error">Latest Project</button>
